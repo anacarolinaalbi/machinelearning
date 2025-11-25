@@ -1,19 +1,13 @@
 # Template de Entrega
 
 
+# PORTIFÓLIO
+
+
+
 ???+ info inline end "Edição"
 
     2025.1
-
-
-## Grupo/Kit X
-
-1. João da Silva
-1. Pedro de Souza
-1. Maria Oliveira
-1. Grupo K
-    - João da Silva
-    - Pedro de Souza
 
 
 
@@ -24,11 +18,16 @@
 
 ## Entregas
 
-- [x] Roteiro 1 - Data 23/02/2025
-- [ ] Roteiro 2
-- [ ] Roteiro 3
-- [ ] Roteiro 4
-- [ ] Projeto
+- [x] DECISION TREE - Data 23/02/2025
+- [x] KNN
+- [x] K-MEAN
+- [ ] EVALUATION AND METRICS
+- [ ] DATA PROJECT I
+- [ ] RANDOM FOREST
+- [ ] PYSPARK
+- [ ] PAGE RANK
+- [ ] DATA PROJECT II
+- [ ] SUPPORT VECTOR MACHINE
 
 ## Diagramas
 

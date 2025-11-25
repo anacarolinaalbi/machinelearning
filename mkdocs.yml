@@ -63,6 +63,8 @@ theme:
       bug: fontawesome/solid/robot
       example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
+  font:
+    text: Roboto
 
 markdown_extensions:
   - admonition
@@ -142,3 +144,5 @@ nav:
     - Roteiro 1: ./roteiro1/index.md
   - Projeto: ./projeto/index.md
   - Decision Tree: ./notebook/DTGlobalTechGadgets.ipynb
+  - KNN: ./notebook/KNNGTGadgets.ipynb
+  
