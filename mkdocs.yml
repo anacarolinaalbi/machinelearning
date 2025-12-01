@@ -141,8 +141,10 @@ nav:
   - Home: index.md
   - This documentation: ./thisdocumentation/index.md
   - Roteiros:
-    - Roteiro 1: ./roteiro1/index.md
+    - Roteiros: ./roteiros/index.md
   - Projeto: ./projeto/index.md
   - Decision Tree: ./notebook/DTGlobalTechGadgets.ipynb
   - KNN: ./notebook/KNNGTGadgets.ipynb
-  
+  - K-MEAN: ./notebook/K_MeansGTGadgets.ipynb
+  - Evaluation and Metrics: ./notebook/EMetricsGTGadgets.ipynb
+  - Random Forest: ./notebook/RForestGTGadgets.ipynb
