@@ -148,3 +148,5 @@ nav:
   - K-MEAN: ./notebook/K_MeansGTGadgets.ipynb
   - Evaluation and Metrics: ./notebook/EMetricsGTGadgets.ipynb
   - Random Forest: ./notebook/RForestGTGadgets.ipynb
+  - Project I: ./notebook/ProjectI.ipynb
+  - Project II: .\notebook\ProjectII.ipynb

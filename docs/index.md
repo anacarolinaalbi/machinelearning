@@ -1,8 +1,13 @@
 # Template de Entrega
 
+Esse material foi produzido inicialmente durante a matéria de Machine Learning ministrada por Humberto Sandmman como entrega obrigatório do segundo semestre de 2025.
+
 
 # PORTIFÓLIO
 
+Olá, seja bem vindo.
+
+Meu nome é Ana Carolina Albi Pereira. As pessoas costumam me chamar de Ana, Carol ou Albi. Nasci no dia 29 de dezembro de 2004. Desde então, fui uma criança bem comuncativa, curiosa e feliz. Conheci a tecnologia ainda na escola, tendo contato com programas como sketch, pacote office e adobe, programação em si de arduíno e noções de projetos de inovação. No final do ensino médio, trabalhei por alguns meses em uma gráfica na Vila Olímpia, onde pude lidar com organização de processos, atendimento ao cliente, faturamento e orçamento, além do que participei da implantação de um novo produto/serviço oferecido pela empresa, que posteriormente, acabou por não passar de um teste. No cursinho BNE, conheci as pessoas que estudariam comigo no Insper, faculdade a qual fiquei aproximadamente 2 anos afiliada. Como não sou uma pessoa extremamente técnica, ciência da computação não era "meu número". Hoje, cursando ciência de dados para negócios na ESPM Tech, acredito ter me encoontrada quanto aos pilares que movem minha cabeça e meu coração: tecnologia e comunicação.
 
 
 ???+ info inline end "Edição"
@@ -11,22 +16,21 @@
 
 
 
-!!! tip "Instruções"
+!!! tip "Algorítimos"
 
-    Vocês devem utilizar este template como um bloco de notas para registrar o que foi feito e o que falta fazer. Vocês devem adicionar as informações necessárias.
-    O template deve ser editado e atualizado a cada entrega, registrando assim a data de entrega e o que foi feito até o momento via Git.
+    Bloco de notas para registrar o que foi feito e o que falta fazer.
 
 ## Entregas
 
 - [x] DECISION TREE - Data 23/02/2025
 - [x] KNN
 - [x] K-MEAN
-- [ ] EVALUATION AND METRICS
-- [ ] DATA PROJECT I
+- [x] EVALUATION AND METRICS
+- [x] DATA PROJECT I
 - [x] RANDOM FOREST
 - [ ] PYSPARK
 - [ ] PAGE RANK
-- [ ] DATA PROJECT II
+- [x] DATA PROJECT II
 - [ ] SUPPORT VECTOR MACHINE
 
 ## Diagramas
