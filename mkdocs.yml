@@ -141,7 +141,7 @@ nav:
   - Home: index.md
   - This documentation: ./thisdocumentation/index.md
   - Roteiros:
-    - Roteiros: ./roteiros/index.md
+    - Roteiros: ./roteiros/roteiroGTGadgets.md
   - Projeto: ./projeto/index.md
   - Decision Tree: ./notebook/DTGlobalTechGadgets.ipynb
   - KNN: ./notebook/KNNGTGadgets.ipynb
@@ -150,3 +150,4 @@ nav:
   - Random Forest: ./notebook/RForestGTGadgets.ipynb
   - Project I: ./notebook/ProjectI.ipynb
   - Project II: .\notebook\ProjectII.ipynb
+  - SVM: .\notebook\SVMTelCo.ipynb
