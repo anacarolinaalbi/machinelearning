@@ -141,7 +141,10 @@ nav:
   - Home: index.md
   - This documentation: ./thisdocumentation/index.md
   - Roteiros:
-    - Roteiros: ./roteiros/roteiroGTGadgets.md
+    - Roteiro DB Global Tech Gagdets: ./roteiros/roteiroGTGadgets.md
+    - Roteiro DB Train:  ./roteiros/roteiroHpricing.md
+    - Roteiro DB TelCo:  ./roteiros/roteiroTelCo.md
+
   - Projeto: ./projeto/index.md
   - Decision Tree: ./notebook/DTGlobalTechGadgets.ipynb
   - KNN: ./notebook/KNNGTGadgets.ipynb
